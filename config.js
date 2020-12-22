@@ -1,5 +1,6 @@
 var config = {
     title: "All Sky - Petropolis-RJ, Brazil",
+    // Your images that come from AllSky need to have this name //
     imageName: "image-resize.jpg",
     location: "Petropolis-RJ",
     latitude: -22.518523,
